@@ -1,6 +1,5 @@
 name: Generate PDF artifact
 
-on: push
 
 jobs:
     generate:
